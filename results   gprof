@@ -1,0 +1,2 @@
+gprof double.p gmon.out>resultados_double.txt
+gprof single.p gmon.out>resultados.txt
